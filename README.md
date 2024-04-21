@@ -1,21 +1,23 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [Tu Nombre], un apasionado de la programación con experiencia en [tecnologías relevantes]. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, desde pequeñas herramientas hasta aplicaciones completas.
+¡Hola! Soy Andree, un apasionado de la programación con experiencia en . Aquí encontrarás una variedad de proyectos en los que he estado trabajando, desde pequeñas herramientas hasta aplicaciones completas.
 
 ## Sobre mí
 
-- 💻 Soy un desarrollador de software con experiencia en [lenguajes de programación relevantes], y siempre estoy ansioso por aprender más.
-- 🎓 Actualmente estoy trabajando en [proyecto o área de interés], donde estoy explorando [tema específico].
+- 💻 Soy un desarrollador de software con experiencia en
+-  ![C++](/icons/cpp.png)
+![Java](/icons/java.png)
+![JavaScript](/icons/javascript.png)
+![HTML](/icons/html.png)
+![CSS](/icons/css.png), y siempre estoy ansioso por aprender más.
+- 🎓 Actualmente estoy trabajando en apps, donde estoy explorando IA.
 - 🔭 Estoy buscando oportunidades para colaborar en proyectos interesantes y desafiantes.
-- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en [tecnologías específicas].
+- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en Base de datos.
 
 ## Mis Proyectos Destacados
 
 Aquí hay una lista de algunos de mis proyectos destacados:
 
-1. [Nombre del Proyecto](enlace al repositorio): Una breve descripción del proyecto.
-2. [Nombre del Proyecto](enlace al repositorio): Una breve descripción del proyecto.
-3. [Nombre del Proyecto](enlace al repositorio): Una breve descripción del proyecto.
 
 ## Contacto
 
